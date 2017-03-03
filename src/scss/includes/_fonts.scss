@@ -1,0 +1,44 @@
+@font-face {
+    font-family: "Exo2-Black";
+    src: local("Exo2-Black"),
+         url("../fonts/Exo2-Black.ttf");
+   }
+@font-face {
+    font-family: "Exo2-Regular";
+    src: local("Exo2-Regular"),
+         url("../fonts/Exo2-Regular.ttf");
+   }
+@font-face {
+    font-family: "Exo2-Bold";
+    src: local("Exo2-Bold"),
+         url("../fonts/Exo2-Bold.ttf");
+   }
+@font-face {
+    font-family: "MyriadProSemiboldCondensed";
+    src: local("MyriadProSemiboldCondensed"),
+         url("../fonts/MyriadProSemiboldCondensed.ttf");
+   }
+@font-face {
+    font-family: "Exo2-SemiBold";
+    src: local("Exo2-Semibold"),
+         url("../fonts/Exo2-Semibold.ttf");
+   }
+@font-face {
+       font-family: "MyriadProCondRegular";
+       src: url("../fonts/MyriadProCondRegular/MyriadProCondRegular.eot");
+       src: url("../fonts/MyriadProCondRegular/MyriadProCondRegular.eot?#iefix")format("embedded-opentype"),
+       url("../fonts/MyriadProCondRegular/MyriadProCondRegular.woff") format("woff"),
+       url("../fonts/MyriadProCondRegular/MyriadProCondRegular.ttf") format("truetype");
+       font-style: normal;
+       font-weight: normal;
+   }
+   /* font-family: "MyriadProCondBold"; */
+@font-face {
+       font-family: "MyriadProCondBold";
+       src: url("../fonts/MyriadProCondBold/MyriadProCondBold.eot");
+       src: url("../fonts/MyriadProCondBold/MyriadProCondBold.eot?#iefix")format("embedded-opentype"),
+       url("../fonts/MyriadProCondBold/MyriadProCondBold.woff") format("woff"),
+       url("../fonts/MyriadProCondBold/MyriadProCondBold.ttf") format("truetype");
+       font-style: normal;
+       font-weight: normal;
+   }
